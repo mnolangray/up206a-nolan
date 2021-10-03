@@ -1,1 +1,2 @@
-## This is where I'm putting data of LA Parking Districts.
+## Week 1: Data
+These are shapefiles from LADOT mapping the location of Overnight Parking Districts [source](https://data.lacity.org/Transportation/LADOT-Overnight-Parking-Districts/jk9n-burj) and Preferential Parking Districts [source](https://data.lacity.org/Transportation/LADOT-Preferential-Parking-Districts-PPD-/2ckn-xmjp). These are mapped largely to exclude vehicle dwellers from certain portions of the city. 
